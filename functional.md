@@ -12,5 +12,5 @@ FUN-NECES_FIELD: All fields that require input for form completion must be
                  marked or otherwie denoted to express their necessity.  
 FUN-FORM-DISCARD: Unique data from invalid forms that are submitted must not 
                   persist on the backend 100% of the time. Data that was 
-                  validly submitted pervious to the invalid submission of the 
-                  same data is requirement to persist.  
+                  validly submitted previous to the invalid submission of the 
+                  same data is required to persist.  
